@@ -16,5 +16,6 @@
 | --- | --- |
 | [777genius/claude-code-working](https://github.com/777genius/claude-code-working) | Main working repository. |
 | [777genius/claude-code-source-code-full](https://github.com/777genius/claude-code-source-code-full) | Full source code repository for this project. |
+| [777genius/claude-multimodel](https://github.com/777genius/claude-multimodel) | Multi-model Claude workflow project. |
 
 The full source code for this project has moved to [777genius/claude-code-source-code-full](https://github.com/777genius/claude-code-source-code-full).
