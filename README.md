@@ -8,14 +8,17 @@
 [![Bun](https://img.shields.io/badge/Runtime-Bun-f472b6?logo=bun&logoColor=white)](#tech-stack)
 [![Files](https://img.shields.io/badge/~1,900_files-source_only-grey)](#directory-structure)
 [![MCP Server](https://img.shields.io/badge/MCP-Explorer_Server-blueviolet)](#-explore-with-mcp-server)
-
-> The raw imported snapshot is preserved in this repository's [`backup` branch](https://github.com/777genius/claude-code-source-code/tree/backup). The `main` branch contains added documentation, tooling, and repository metadata.
-
 </div>
 
 Also check out these two cool projects:
 1. [claude_agent_teams_ui](https://github.com/777genius/claude_agent_teams_ui) - You're the CTO, agents are your team. They handle tasks themselves, message each other, review each other's code. You just look at the kanban board and drink coffee.
 2. [claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation.
+
+   
+
+> The raw imported snapshot is preserved in this repository's [`backup` branch](https://github.com/777genius/claude-code-source-code/tree/backup). The `main` branch contains added documentation, tooling, and repository metadata.
+
+
 
 ---
 
