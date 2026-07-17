@@ -1,5 +1,6 @@
 # Claude Code Source Code
 
+<!--
 <div align="center">
   <a href="https://www.atlascloud.ai/console/coding-plan">
     <img src="assets/atlascloud-logo.svg" alt="Atlas Cloud" height="38">
@@ -11,6 +12,7 @@
     Check out Atlas Cloud's new coding plan promotion for more budget-friendly API access.
   </p>
 </div>
+-->
 
 ## Also Check Out
 
